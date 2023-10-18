@@ -1,0 +1,28 @@
+[
+    {
+        "uid": "0",
+        "title": "Foundation",
+        "initialTodos": [
+            { "uid": "0-0", "text": "Setup virtual office", "completed": false },
+            { "uid": "0-1", "text": "Set mission & vision", "completed": false },
+            { "uid": "0-2", "text": "Select business name", "completed": false },
+            { "uid": "0-3", "text": "Buy domains", "completed": false }
+        ]
+    },
+    {
+        "uid": "1",
+        "title": "Discovery",
+        "initialTodos": [
+            { "uid": "1-0", "text": "Create roadmap", "completed": false },
+            { "uid": "1-1", "text": "Competitor analysis", "completed": false }
+        ]
+    },
+    {
+        "uid": "2",
+        "title": "Delivery",
+        "initialTodos": [
+            { "uid": "2-0", "text": "Release marketing website", "completed": false },
+            { "uid": "2-1", "text": "Release MVP", "completed": false }
+        ]
+    }
+]

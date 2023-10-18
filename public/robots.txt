@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://oakslab.vercel.app/sitemap.xml
